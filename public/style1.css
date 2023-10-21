@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.new-wrap {
+    width: 100%;
+    height: 100vh;
+    background-color: #F4F1EE;
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.new-conteinertop {
+    display: flex;
+    width: 100%;
+    height: 20%;
+}
+
+.new-logo {
+    width: 100%;
+    height: 80px;
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.new-left {
+    width: 35%;
+    height: 40px;
+    display: flex;
+    text-indent: 2rem;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+.new-center {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-right {
+    width: 35%;
+    height: 40px;
+    display: flex;
+    text-indent: 2rem;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+.new-right h3 {
+    font-weight: 100;
+}
+
+.new-right i {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.new-conteinercenter {
+    display: flex;
+    width: 100%;
+    height: 45%;
+}
+
+.new-conteinerbotton {
+    display: flex;
+    width: 100%;
+    height: 30%;
+}
+
+.new-left2 {
+    width: 50%;
+    height: 100%;
+}
+
+.new-right2 img {
+    width: 380px;
+    margin-top: -40px;
+}
+
+.new-top2 h2 {
+    font-size: 50px;
+    font-weight: 200;
+    margin-top: 10px;
+}
+
+.new-center2 p {
+    color: #404040;
+    font-size: 25px;
+    margin-top: 40px;
+    font-weight: 100;
+}
+
+.new-left3 button {
+    border: none;
+    background-color: #232020;
+    color: #fff;
+    width: 145px;
+    height: 38px;
+    letter-spacing: 4px;
+}
+
+.new-botton2 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.new-right3 button {
+    border: none;
+    color: #000;
+    margin-left: 40px;
+    background-color: #F4F1EE;
+    width: 145px;
+    height: 38px;
+    border: solid 1px #D48A5C;
+    letter-spacing: 4px;
+}
+
+.new-conteinerbotton {
+    width: 100%;
+    height: 35%;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.new-coffemenu {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.new-card1 {
+    width: 360px;
+    height: 250px;
+    background-color: #D48A5C;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.new-card1 img {
+    margin-top: -15px;
+    width: 345px;
+    position: absolute;
+}
